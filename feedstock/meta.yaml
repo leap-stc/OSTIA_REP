@@ -1,0 +1,14 @@
+title: "OSTIA Reprocessed"
+description: >
+  GHRSST Level 4 OSTIA Global Historical Reprocessed Foundation Sea Surface Temperature Analysis produced by the UK Meteorological Office.
+provenance:
+  providers:
+    - name: "NASA PODAAC"
+      description: "NASA Physical Oceanography Distributed Active Archive Center"
+      roles:
+        - producer
+        - distributor
+  license: "https://doi.org/10.48670/moi-00168"
+maintainers:
+  - name: "Raphael Hagen"
+    github: norlandrhagen

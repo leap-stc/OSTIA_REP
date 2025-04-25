@@ -1,0 +1,17 @@
+"ncviewjs:meta_yaml_url": "https://github.com/leap-stc/OSTIA_REP/blob/main/feedstock/meta.yaml"
+tags:
+  - global
+  - zarr
+  - GHRSST
+  - L4
+  - Level 4
+  - SST
+  - REP
+  - reprocessed
+  - sea surface temperature
+  - NASA
+  - UK Met Office
+stores:
+  - id: "OSTIA-REP"
+    name: "OSTIA-UKMO-L4-GLOB-REP-v2.0"
+    url: "https://nyu1.osn.mghpcc.org/leap-pangeo-pipeline/OSTIA/OSTIA.zarr"
